@@ -1,2 +1,3 @@
 One operating system function is that they manage the computer's resources. Examples of these resources are Memory, the central processing unit and printers. It also manages input/output devices, and network connections.  
 Another function the operating system performs is that is establishes a user interface. The operating system acts as a bridge between the hardware and the programs. The interface is the part of the operating system that the user uses to enter and receive information.  
+The third function the operating systems performs is file management. The operating systems is responsible for how data is organized into files. The user can find data files by using programs like windows file explorer.
